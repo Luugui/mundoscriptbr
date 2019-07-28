@@ -1,5 +1,7 @@
 # Report Zabbix
 
+![Report Zabbix](https://img.shields.io/badge/Report%20Zabbix-v.01-information)![Report Zabbix](https://img.shields.io/badge/Zabbix-v%204.x-red)![Report Zabbix](https://img.shields.io/badge/PHP-v7-blue)
+
 O **Report Zabbix** é uma ferramenta para auxiliar na extração de eventos e da disponibilidade dos eventos. A aplicação tem três tipos de relatórios para serem gerados. 
 
 - **Hosts** - Uma listagem com todos os ICs cadastrados na Ferramenta.
