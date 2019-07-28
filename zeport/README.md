@@ -20,7 +20,7 @@ O **Report Zabbix** é uma ferramenta para auxiliar na extração de eventos e d
 
 # Arquivos
 
-A pasta do **Report Zabbix** não precisa ficar obrigatoriamente junto ao frontend do Zabbix.
+A pasta do **Report Zabbix** não precisa ficar obrigatoriamente junto ao frontend do Zabbix. Porém precisa estar no mesmo servidor para acesso de algumas funções do proprio frontend do Zabbix.
 
 ### Configuração
 
