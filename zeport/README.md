@@ -22,9 +22,20 @@ O **Report Zabbix** é uma ferramenta para auxiliar na extração de eventos e d
 
 A pasta do **Report Zabbix** não precisa ficar obrigatoriamente junto ao frontend do Zabbix. Porém precisa estar no mesmo servidor para acesso de algumas funções do proprio frontend do Zabbix.
 
+
 ### Configuração
 
 Baixe a pasta do **Report Zabbix** e cole junto ao frontend do Zabbix. Para conexão com o zabbix e coleta dos dados é necessário um usuario de acesso da API com permissão para vizualização de todos os hosts.
+
+
+    zabbix
+    |
+    |-zeport
+    | |
+    | |-lib
+    | |-zabbixdados.php
+    | |-config.inc.php
+    | |-...
 
 ### Arquivo config.inc.php
 
